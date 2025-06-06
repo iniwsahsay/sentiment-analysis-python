@@ -1,5 +1,7 @@
 # Sentiment Analysis on Twitter Data using Machine Learning & NLP
 
+Mini project on Python 
+
 Sentiment Analysis is a Natural Language Processing (NLP) technique used to determine whether a piece of text expresses a positive, negative, or neutral sentiment. It is widely applied in analyzing opinions, reviews, feedback, and social media content to understand public perception of a product, service, brand, or event.
 
 This project implements **binary sentiment analysis** on Twitter data using **Natural Language Processing (NLP)** and a **Logistic Regression** model. It classifies tweets as either **positive** or **negative** based on their content. The project is built and executed in **Google Colab**, with the **Sentiment140 dataset** sourced directly via the **Kaggle API**.
