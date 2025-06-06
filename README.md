@@ -34,6 +34,8 @@ This project implements **binary sentiment analysis** on Twitter data using **Na
 - 🔮 Make predictions on unseen tweet samples
   
 
+
+
 ## 🧪 Technologies Used
 
 Python 3, Google Colab
@@ -47,6 +49,7 @@ Data: Sentiment140 dataset
 Model Persistence: pickle
 
 API Access: Kaggle API
+
 
 
 ## 🚀 How It Works:
@@ -74,13 +77,14 @@ Save and load the model for future predictions.
 
 File	Description:
 
-sentiment_analysis.py	Main script containing data processing, model training, etc.
+sentiment_analysis.py     	Main script containing data processing, model training, etc.
 
-kaggle.json	Kaggle API key (user-provided, do not upload to GitHub)
+kaggle.json	                Kaggle API key (user-provided, do not upload to GitHub)
 
-trained_model.sav	Pickled model file for future use
+trained_model.sav          	Pickled model file for future use
 
-training.1600000...csv	Raw tweet dataset (from Kaggle Sentiment140)
+training.1600000...csv	    Raw tweet dataset (from Kaggle Sentiment140)
+
 
 
 📈 Results: 
@@ -91,11 +95,15 @@ training.1600000...csv	Raw tweet dataset (from Kaggle Sentiment140)
 
 💬 The model performs reliably on binary sentiment classification tasks.
 
+
+
 🗃 Sample Output:
 
 Tweet: "I love this!" → Prediction: Positive Tweet  
 
 Tweet: "Worst day ever..." → Prediction: Negative Tweet
+
+
 
 🙋‍♀️ Author
 
