@@ -1,4 +1,4 @@
-# Sentiment Analysis on Twitter Data using Machine Learning
+# Sentiment Analysis on Twitter Data using Machine Learning & NLP
 
 Sentiment Analysis is a Natural Language Processing (NLP) technique used to determine whether a piece of text expresses a positive, negative, or neutral sentiment. It is widely applied in analyzing opinions, reviews, feedback, and social media content to understand public perception of a product, service, brand, or event.
 
